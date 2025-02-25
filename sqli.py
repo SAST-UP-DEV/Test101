@@ -18,3 +18,4 @@ def login():
 
   # disconnect from server
   db.close()
+  
